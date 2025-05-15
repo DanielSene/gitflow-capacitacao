@@ -2,6 +2,6 @@
 
 Essa é a introdução da nossa história.
 
-Desenvolvendo o de desenvolvimento. (erro grave)
+Desenvolvendo o de desenvolvimento. 
 
 Conclusão.
